@@ -1,5 +1,4 @@
 # Easy Santa
----
 
 Some people really enjoy Christmas and some just hate it but it does not change the fact that the guy in Lapland named Santa Claus will be using this app this year. `Easy Santa` is a simple CONSOLE application which will allow Santa to register all the gifts that children around the world want!
 
@@ -10,8 +9,7 @@ Contents
  * [Usage](#usage)
  * [File structure](#file-structure)
 
-### Task{#task}
----
+### Task
 
 + Create a very simple and easy to navigate console menu. Try to handle invalid characters, symbols that users might enter and various errors that might occur.
 + Let’s make this year easy for Santa. We can make it possible by assigning random gifts to random children. Keep in mind that names and gifts must be stored somewhere - array, list, dictionary or file (it’s up to you).
@@ -40,16 +38,15 @@ find it to be quite interesting and document it.
 + While developing this console application listen to Mariah Carey - All I want for Christmas is you. Or don’t. Just make it work!
 
 ### How to run
----
 
 #### Method 1: run php in console
-==Only works if PHP is installed in the operating system==
+Only works if PHP is installed in the operating system
 1. Clone repository
 2. Open folder in your favorite terminal or any IDE that has integrated terminal within:
     + CMD in windows
     + Bash in linux
     + IDE, e.g: Visual studio code, Atom, PHPStorm, Sublime and many others
-3. Use command `php` with filename, in this case `php program.php` to run "Easy Santa" console application. ==Be sure to be in the directory of application==
+3. Use command `php` with filename, in this case `php program.php` to run "Easy Santa" console application. Be sure to be in the directory of application
 
 #### Method 2: download executable and run
 
@@ -113,8 +110,8 @@ q - displays current Santa's list with assigned children and presents, assigned 
 unassigned presents. If there is nothing in the list, assigned pair count - 0 will be displayed.
 ```
 
-#### Application file structure
----
+### Application file structure
+========
 
 ```
 ├── app
