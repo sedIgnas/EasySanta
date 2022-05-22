@@ -59,16 +59,16 @@ Only works if PHP is installed in the operating system
 Start the program using one of the listed above methods.
 
 ```
-  Easily create list of children and presents and assign them to each other.
+Easily create list of children and presents and assign them to each other.
 
-  In the top area of the menu, number of unnasigned gifts and children, assigned pair
-  count will be displayed. Each child can only be assigned to one present, while same present can be
-  created and assigned to multiple children. 
-  Children names and presents can only be input as Letters and spaces combination.
-  Upon entering invalid characters, a message will inform you to correct your input.
-  Application will not let you input special characters or numbers and is case sensitive.
-  If option (r) is chosen, application will assign all presents to all children, as long
-  as there are at least 1 present to 1 child. 
+In the top area of the menu, number of unnasigned gifts and children, assigned pair
+count will be displayed. Each child can only be assigned to one present, while same present can be
+created and assigned to multiple children. 
+Children names and presents can only be input as Letters and spaces combination.
+Upon entering invalid characters, a message will inform you to correct your input.
+Application will not let you input special characters or numbers and is case sensitive.
+If option (r) is chosen, application will assign all presents to all children, as long
+as there are at least 1 present to 1 child. 
 
 Options:
   c - add child
