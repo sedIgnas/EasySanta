@@ -9,7 +9,7 @@ Contents
  * [Usage](#usage)
  * [File structure](#file-structure)
 
-### Task
+## Task
 
 + Create a very simple and easy to navigate console menu. Try to handle invalid characters, symbols that users might enter and various errors that might occur.
 + Let’s make this year easy for Santa. We can make it possible by assigning random gifts to random children. Keep in mind that names and gifts must be stored somewhere - array, list, dictionary or file (it’s up to you).
@@ -37,7 +37,7 @@ leave someone without a gift this year, right?
 find it to be quite interesting and document it.
 + While developing this console application listen to Mariah Carey - All I want for Christmas is you. Or don’t. Just make it work!
 
-### How to run
+## How to run
 
 #### Method 1: run php in console
 Only works if PHP is installed in the operating system
@@ -54,7 +54,7 @@ Only works if PHP is installed in the operating system
 2. Extract files from the archive using 7-zip, winRAR, The Unarchiver or any similar software.
 3. If files were extracted into folder, navigate inside and run `EasySanta.exe`.
 
-### Usage
+## Usage
 
 Start the program using one of the listed above methods.
 
@@ -109,7 +109,7 @@ q - displays current Santa's list with assigned children and presents, assigned 
 unassigned presents. If there is nothing in the list, assigned pair count - 0 will be displayed.
 ```
 
-### Application file structure
+## Application file structure
 
 ```
 ├── app
