@@ -55,7 +55,6 @@ Only works if PHP is installed in the operating system
 3. If files were extracted into folder, navigate inside and run `EasySanta.exe`.
 
 ### Usage
----
 
 Start the program using one of the listed above methods.
 
@@ -111,7 +110,6 @@ unassigned presents. If there is nothing in the list, assigned pair count - 0 wi
 ```
 
 ### Application file structure
-========
 
 ```
 ├── app
