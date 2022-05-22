@@ -80,17 +80,17 @@ Options:
   q - current Santa's list             
   e - exit application
 ___
-c - adds new child if the child is not present in "database", will check if input has no illegal symbols,
-is not empty and has not been assigned to a gift already. Then list of children that has not been assigned to
-any gift will be displayed.
+c - adds new child if the child is not present in "database", will check if input has no illegal
+symbols, is not empty and has not been assigned to a gift already. Then list of children that
+has not been assigned to any gift will be displayed.
 
-p - adds new present and input will be checked for illegal symbols and if not empty. Then list of available
-presents will be displayed.
+p - adds new present and input will be checked for illegal symbols and if not empty. Then list of 
+available presents will be displayed.
 
-r - assigns presents from "database" to children. Chooses which present to assign to which child randomly,
-then removes children and presents from "database". If there are quantity of presents or children are 
-more than one or another, message will be displayed to add more children or presents and unassigned children
-or presents will be displayed.
+r - assigns presents from "database" to children. Chooses which present to assign to which child
+randomly, then removes children and presents from "database". If there are quantity of presents or
+children are more than one or another, message will be displayed to add more children or presents
+and unassigned children or presents will be displayed.
 
 s - assigns one random present to one random child, then displays list of presents that are already
 assigned to children.Then displays list of assigned presents to children. If there are no more presents
@@ -105,8 +105,9 @@ n - assigns present of user choice, can be any input, to a child with any name t
 Child can not be in initial "database" list, so if user inputs such child name, a corresponding message
 will be displayed.
 
-q - displays current Santa's list with assigned children and presents, assigned pair count, unassigned children,
-unassigned presents. If there is nothing in the list, assigned pair count - 0 will be displayed.
+q - displays current Santa's list with assigned children and presents, assigned pair count,
+unassigned children, unassigned presents. If there is nothing in the list, assigned pair
+count - 0 will be displayed.
 ```
 
 ## Application file structure
