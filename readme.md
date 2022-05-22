@@ -122,7 +122,7 @@ count - 0 will be displayed.
 │   │   └── PresentRepository.php
 │   └── helpers
 │       ├── autoloader.php
-│       └──consoleHelper.php
+│       └── consoleHelper.php
 ├── program.php
 └── readme.md
 
